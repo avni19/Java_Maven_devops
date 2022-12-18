@@ -20,7 +20,7 @@ import com.vaadin.v7.ui.TextField;
 
 /* User Interface written in Java.
  *
- * Define the user interface shown on the Vaadin generated web page by extending the UI class.
+ * Define the user interface shown on the Vaadin generated web page by extending the UI class.//
  * By default, a new UI instance is automatically created when the page is loaded. To reuse
  * the same instance, add @PreserveOnRefresh - last change on 18-12-2022 at 18.30 - change 2.
  * making code changes at 18.50 and will commit, so that changes will auto pull by jenkins using poll scm- changes at 18:58.
